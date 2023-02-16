@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}What is Data Structures}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Linear Data Structures}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}Static Data Structure}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.2}Dynamic Data Structure}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Non Linear Data Structures}{2}{}%
+\contentsline {section}{\numberline {2}Arrays}{3}{}%
+\contentsline {section}{\numberline {3}Linked List}{3}{}%
